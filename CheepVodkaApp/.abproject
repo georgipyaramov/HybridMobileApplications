@@ -55,5 +55,10 @@
   "BundleVersion": "1.0",
   "Framework": "Cordova",
   "Author": "",
-  "Description": "Friends"
+  "Description": "Friends",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
 }
