@@ -2,7 +2,7 @@
   "ProjectGuid": "fdb1f2ea-56ca-496e-b9f9-9fed5ced6c42",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "AppIdentifier": "com.telerik.Friends",
-  "ProjectName": "Friends",
+  "ProjectName": "CheepVodkaApp",
   "AndroidPermissions": [
     "android.permission.CAMERA",
     "android.permission.VIBRATE",
@@ -53,5 +53,7 @@
   "AndroidHardwareAcceleration": "false",
   "FrameworkVersion": "3.2.0",
   "BundleVersion": "1.0",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "Author": "",
+  "Description": "Friends"
 }
